@@ -5,8 +5,8 @@ Many of the things **I learned in the NLP class sparked my interest in the LLM, 
 
 Currently, I only have basic, hands-on code, but I will continue to work on it and complete the repository! 
 
-Areas I'd like to research in the future include
-💡 Lightweighting of LLMs
-💡 Multi-Modal Learning with LLM
+Areas I'd like to research in the future include<br>
+💡 Lightweighting of LLMs<br>
+💡 Multi-Modal Learning with LLM<br>
 
 Thank you !
